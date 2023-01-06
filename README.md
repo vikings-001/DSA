@@ -1,3 +1,3 @@
 # DSA
-**This repo contains problem related to data structure and algorithm which essentially important for Product based companies.
+**This repo contains problems related to data structure and algorithm which are essentially important for Product based companies.
 
